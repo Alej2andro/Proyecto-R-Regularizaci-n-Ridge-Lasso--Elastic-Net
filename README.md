@@ -1,4 +1,4 @@
-# ☀️ Predicción de Radiación Solar en Sector La Puntilla, Pichilemu con Machine Learning | Proyecto Elastic Net
+# ☀️ Predicción de Radiación Solar en Sector La Puntilla, Pichilemu
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
