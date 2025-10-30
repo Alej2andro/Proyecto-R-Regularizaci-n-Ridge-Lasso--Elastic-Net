@@ -116,11 +116,11 @@ Se evaluaron tres métodos de regularización mediante validación cruzada 10-fo
 
 | Variable | Ponderación | Interpretación Física |
 |----------|-------------|----------------------|
-| **Temperatura máx 2m** | 10.0 | Respuesta térmica directa a radiación |
-| **Temperatura máx superficie** | 7.9 | Energía absorbida por el suelo |
-| **Temperatura 2m** | 6.4 | Estado térmico atmosférico |
-| **Temperatura húmeda** | 4.9 | Integra calor sensible + humedad |
-| **Radiación directa normal** | 4.3 | Componente sin dispersión atmosférica |
+| ** Temperatura máx 2 mts altura (°C)** | 10.0 | Respuesta térmica directa a radiación |
+| **Temperatura máx superficie (°C)** | 7.9 | Energía absorbida por el suelo |
+| **Temperatura 2 mts altura (°C)** | 6.4 | Estado térmico atmosférico |
+| **Temperatura húmeda  2 mts altura (°C)** | 4.9 | Integra calor sensible + humedad |
+| **Radiación directa normal en superficie (W/m²) ** | 4.3 | Componente sin dispersión atmosférica |
 
 ### 🎯 Correlaciones Validadas Físicamente
 ```r
