@@ -4,8 +4,6 @@
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/)
 
-> **Análisis predictivo completo de radiación solar en Pichilemu utilizando métodos de regularización avanzados (Ridge, Lasso, Elastic Net) sobre datos satelitales NASA POWER**
-
 ---
 
 ## 🎯 Resumen Ejecutivo
