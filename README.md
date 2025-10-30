@@ -24,7 +24,6 @@ Desarrollo de modelo predictivo que alcanza **96% de precisión (R²=0.96)** en 
 ## 🔗 Visualiza el Proyecto Completo
 
 ### 📄 [**Haz clic aquí para ver el análisis interactivo en HTML**](https://alej2andro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso--Elastic-Net/)
-### 👉 [Haz clic aquí para ver el análisis en formato HTML](https://alejzandro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso-Elastic-Net/)
 
 El informe incluye:
 - 🗺️ Mapas interactivos con Leaflet
