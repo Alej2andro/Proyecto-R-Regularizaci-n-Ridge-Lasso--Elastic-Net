@@ -1,16 +1,4 @@
-# Proyecto-R-Regularizaci-n-Ridge-Lasso--Elastic-Net
-
-# 🌞 Predicción de Radiación Solar en Sector La Puntilla, Pichilemu
-
-Este repositorio contiene un análisis predictivo utilizando métodos de regularización: **Ridge**, **Lasso** y **Elastic Net**, aplicado a datos de radiación solar en la zona costera de Pichilemu.
-
-## 🔗 Ver el informe completo
-
-👉 [Haz clic aquí para ver el análisis en formato HTML](https://alejzandro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso-Elastic-Net/)
-
-Incluye visualizaciones, validación cruzada y comparación de modelos en R Markdown.
-
-# ☀️ Predicción de Radiación Solar con Machine Learning | Proyecto Elastic Net
+# ☀️ Predicción de Radiación Solar en Sector La Puntilla, Pichilemu con Machine Learning | Proyecto Elastic Net
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
@@ -38,6 +26,7 @@ Desarrollo de modelo predictivo que alcanza **96% de precisión (R²=0.96)** en 
 ## 🔗 Visualiza el Proyecto Completo
 
 ### 📄 [**Haz clic aquí para ver el análisis interactivo en HTML**](https://alej2andro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso--Elastic-Net/)
+### 👉 [Haz clic aquí para ver el análisis en formato HTML](https://alejzandro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso-Elastic-Net/)
 
 El informe incluye:
 - 🗺️ Mapas interactivos con Leaflet
