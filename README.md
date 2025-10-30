@@ -91,15 +91,21 @@ Criterio: λ_min (máxima precisión)
 ```
 
 ### 3️⃣ **Comparación de Métodos**
-| Método | α | R² Test | Variables Activas | Fortaleza |
-|--------|---|---------|-------------------|-----------|
-| Ridge | 0.0 | 0.9468 | 17/17 | Estabilidad ante colinealidad |
-| Lasso | 1.0 | 0.9447 | 15/17 | Selección automática |
-| **Elastic Net** | **0.1** | **0.9604** | **17/17** | **Balance óptimo** |
+
+Se evaluaron tres métodos de regularización mediante validación cruzada 10-fold:
+
+- **Ridge (L2)**: Estabiliza coeficientes sin eliminar variables
+- **Lasso (L1)**: Realiza selección automática de features
+- **Elastic Net (L1+L2)**: Combina ambas fortalezas
+
+**Modelo seleccionado**: Elastic Net con **α=0.10** y **λ=0.000886**  
+- Supera a Ridge y Lasso en precisión predictiva
+- Retiene las 17 variables con coeficientes estables
+- Alcanza **R²=0.9604** en conjunto de prueba
 
 ### 4️⃣ **Validación Estadística**
-- ✅ **Normalidad**: Shapiro-Wilk + QQ-plot
-- ✅ **Homocedasticidad**: Test Breusch-Pagan (p=0.1193)
+- ✅ **Normalidad**: Shapiro-Wilk + Gráficas
+- ✅ **Homocedasticidad**: Test Breusch-Pagan (p=0.4144)
 - ✅ **Independencia**: Durbin-Watson + Ljung-Box (p=0.3524)
 
 ---
@@ -118,8 +124,8 @@ Criterio: λ_min (máxima precisión)
 
 ### 🎯 Correlaciones Validadas Físicamente
 ```r
-Radiación Solar ↔ Temperatura Máx:  r = 0.84  (R² = 71%)
-Radiación Solar ↔ Humedad Relativa: r = -0.84 (anticorrelación)
+Radiación solar descendente superficie ↔ Temperatura máx 2 mts altura :  r = 0.84  (R² = 71%)
+Radiación Solar ↔ Humedad Relativa 2 mts altura : r = -0.84 (anticorrelación)
 ```
 
 ---
