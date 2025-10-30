@@ -181,8 +181,8 @@ rmarkdown::render("Proyecto1R.Rmd")
 **Alejandro Figueroa Rojas**  
 *Analista de Datos | Ingeniero Comercial*
 
-📧 contacto.figueroarejas.a@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-figueroa-rojas-2052b6218)  
+📧 contacto.alejandro.figueroa.rojas@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/alejandrofigueroarojas)  
 📂 [GitHub](https://github.com/Alej2andro)
 
 ### 🎯 ¿Por qué este proyecto?
