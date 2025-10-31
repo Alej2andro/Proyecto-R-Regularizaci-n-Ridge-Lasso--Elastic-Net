@@ -6,6 +6,6 @@ Este repositorio contiene un análisis predictivo utilizando métodos de regular
 
 ## 🔗 Ver el informe completo
 
-👉 [Haz clic aquí para ver el análisis en formato HTML](https://alejzandro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso-Elastic-Net/)
+👉 [Haz clic aquí para ver el análisis en formato HTML](https://alej2andro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso--Elastic-Net/)
 
 Incluye visualizaciones, validación cruzada y comparación de modelos en R Markdown.
