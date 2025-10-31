@@ -9,7 +9,7 @@
 ## 🎯 Resumen Ejecutivo
 
 👉 [Haz clic aquí para ver el análisis en formato HTML](https://alej2andro.github.io/Proyecto-R-Regularizaci-n-Ridge-Lasso--Elastic-Net/)
-=======
+
 Desarrollo de modelo predictivo que alcanza **96% de precisión (R²=0.96)** en estimación de radiación solar utilizando 17 variables meteorológicas. El proyecto demuestra dominio completo del flujo de ciencia de datos: desde preprocesamiento riguroso hasta validación estadística exhaustiva.
 >>>>>>> 2b489ca77aa76958b78d58641cd8072a867f7937
 
